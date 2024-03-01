@@ -1,8 +1,16 @@
-# React + Vite
+# Desafio 02 do Modulo 2- React - VnW 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fiz esse projeto no Modulo 2 do curso de Desenvolvimento Web do Vai na Web.
 
-Currently, two official plugins are available:
+## Tecnologias 💻
+HTML & CSS
+React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+Visual Studio Code
+```
+
+## Os requisitos que foram solicitados: ✅
+-   crie um projeto em React e suba para o GitHub.
+
+## Muito obrigada! 💙💻
